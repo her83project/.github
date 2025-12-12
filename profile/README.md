@@ -10,14 +10,21 @@
   </a>
 </p>
 
-### Where to go
-
+### Where to go?
 Check out the following links to follow the progress
+- [Website](https://her83.com)
+- [X](https://x.com/her83project)
+- [Instagram](https://instagram.com/her83project)
+- [GitHub](https://github.com/her83project)
 
-1. [Website](https://her83.com)
-2. [X](https://x.com/her83project)
-3. [Instagram](https://instagram.com/her83project)
-4. [GitHub](https://github.com/her83project)
+---
+
+### Brand / Media
+Style Guide coming soon: `https://github.com/her83project/style-guide`   
+
+| `Magenta` | `Teal` | `Cyan` | `Turquoise` | `Light Cyan` | `Soft Gray` | `Dark Text` |
+|:---------:|:------:|:------:|:-----------:|:-------------:|:------------:|:------------:|
+|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/fe017f?style=round&size=50'/></a> <br/> #fe017f|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/009fb7?style=round&size=50'/></a> <br/> #009fb7|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/3dddf2?style=round&size=50'/></a> <br/> #3dddf2|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/34c3ce?style=round&size=50'/></a> <br/> #34c3ce|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/d7faff?style=round&size=50'/></a> <br/> #d7faff|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/f4f4f6?style=round&size=50'/></a> <br/> #f4f4f6|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/1e1e1e?style=round&size=50'/></a> <br/> #1e1e1e|
 
 ---
 
@@ -25,78 +32,14 @@ Check out the following links to follow the progress
 
 Her83 is a data forward project that visualizes the gender pay gap on an interactive map  
 
-The aim is to make pay inequity visible at a glance and personal in a single tap  
+The mission is to make pay inequity visible at a glance and personal in one tap  
 
 Her83 shows
 
-* how much women earn compared to men in a given region
-* how large the gap is in percent
-* what that means in missed earnings each year and over time
-* how location and industry shape the numbers
-
----
-
-### Brand and media
-
-Style guide repository
-
-* `https://github.com/her83project/style-guide`  
-
-Core language
-
-* short
-* clear
-* data grounded
-* quietly outraged
-* focused on women first
-
----
-
-### Color palette
-
-<p align="center"><strong>Core palette</strong></p>
-
-<table align="center">
-  <tr>
-    <th>Magenta accent</th>
-    <th>Teal primary</th>
-    <th>Cyan highlight</th>
-    <th>Turquoise mid</th>
-    <th>Light cyan</th>
-    <th>Soft gray</th>
-    <th>Dark text</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <div style="width:50px;height:50px;border-radius:999px;background:#fe017f;margin:auto;"></div>
-      <br/>#fe017f
-    </td>
-    <td align="center">
-      <div style="width:50px;height:50px;border-radius:999px;background:#009fb7;margin:auto;"></div>
-      <br/>#009fb7
-    </td>
-    <td align="center">
-      <div style="width:50px;height:50px;border-radius:999px;background:#3dddf2;margin:auto;"></div>
-      <br/>#3dddf2
-    </td>
-    <td align="center">
-      <div style="width:50px;height:50px;border-radius:999px;background:#34c3ce;margin:auto;"></div>
-      <br/>#34c3ce
-    </td>
-    <td align="center">
-      <div style="width:50px;height:50px;border-radius:999px;background:#d7faff;margin:auto;"></div>
-      <br/>#d7faff
-    </td>
-    <td align="center">
-      <div style="width:50px;height:50px;border-radius:999px;background:#f4f4f6;margin:auto;"></div>
-      <br/>#f4f4f6
-    </td>
-    <td align="center">
-      <div style="width:50px;height:50px;border-radius:999px;background:#1e1e1e;margin:auto;"></div>
-      <br/>#1e1e1e
-    </td>
-  </tr>
-</table>
+- how much women earn compared to men in a given region  
+- the size of the gap as a percent  
+- what that gap means in missed earnings each year  
+- how place, industry, and level shape the outcome  
 
 ---
 
@@ -104,10 +47,9 @@ Core language
 
 Her83 exists so that
 
-* women can see the cost of the gap where they live and work
-* researchers and journalists can reference a clear visual source
-* companies cannot claim they did not know
+- women can see the cost of the gap  
+- researchers and journalists have a clear visual source  
+- companies cannot pretend they did not know  
 
 Eighty three cents is not the whole story  
-
 Her83 shows the rest
